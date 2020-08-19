@@ -5,7 +5,7 @@ class Toolbar extends React.Component {
     render(){
         return(
             <div>
-                <div className='company'>О компании</div>
+                <div className='company'>ЗАЛУПА</div>
                 <div className="contacts">Контакты</div>
             </div>
         )
