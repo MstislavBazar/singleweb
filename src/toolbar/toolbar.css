@@ -1,0 +1,39 @@
+.contacts {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 8);
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid white;
+    height: 50px;
+    width: 25%;
+    color: wheat;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.company {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 8);
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid white;
+    margin-left: 25%;
+    height: 50px;
+    width: 25%;
+    color: wheat;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+.contacts:hover {
+    background-color: bisque;
+    border: 1px solid rgb(100, 100, 100);
+    color: black;
+    cursor: pointer;
+}
+
+.company:hover {
+    background-color: bisque;
+    border: 1px solid rgb(100, 100, 100);
+    color: black;
+    cursor: pointer;
+}
